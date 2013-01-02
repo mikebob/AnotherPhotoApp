@@ -1,0 +1,24 @@
+//
+// Prefix header for all source files of the 'SmartyPix' target in the 'SmartyPix' project
+//
+
+#import <Availability.h>
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+    #import "SmartyPixAppDelegate.h"
+    #import "UserPrefsHandler.h"
+    #import "NSArray+Reverse.h"
+    #import "NSNumber+Filenames.h"
+    #import "Macros.h"
+    #import "UIColor+Helper.h"
+#endif
+
+#define APP_DELEGATE (SmartyPixAppDelegate *)[[UIApplication sharedApplication] delegate]
+
+// This is defined in Math.h
+#define M_PI   3.14159265358979323846264338327950288   /* pi */
+
+// Location of user taken pics on disk
+#define USER_PICS_DIRECTORY [[NSHomeDirectory() stringByAppendingPathComponent:@"Documents/UserPics"] stringByAppendingString:@"/"]

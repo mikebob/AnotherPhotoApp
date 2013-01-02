@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Frames</key>
+	<array>
+		<dict>
+			<key>Title</key>
+			<string>Cocoa Time</string>
+			<key>Image</key>
+			<string>CocoaTime</string>
+			<key>BorderColor</key>
+			<string>#66ccff</string>
+			<key>isFeatured</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>isFeatured</key>
+			<true/>
+			<key>Title</key>
+			<string>Hit The Slopes</string>
+			<key>Image</key>
+			<string>HitTheSlopes</string>
+			<key>BorderColor</key>
+			<string>#d3d3d3</string>
+		</dict>
+		<dict>
+			<key>isFeatured</key>
+			<true/>
+			<key>Title</key>
+			<string>Greatest Show On Ice</string>
+			<key>Image</key>
+			<string>GreatestShowOnIce</string>
+			<key>BorderColor</key>
+			<string>#dbfaff</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Let It Snow</string>
+			<key>Image</key>
+			<string>LetItSnow</string>
+			<key>BorderColor</key>
+			<string>#d2aaff</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Stay Cool</string>
+			<key>Image</key>
+			<string>StayCool</string>
+			<key>BorderColor</key>
+			<string>#1d8ae4</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Happy Holidays</string>
+			<key>Image</key>
+			<string>HappyHolidays</string>
+			<key>BorderColor</key>
+			<string>#6087c8</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Seasons Greetings</string>
+			<key>Image</key>
+			<string>SeasonsGreetings</string>
+			<key>BorderColor</key>
+			<string>#212121</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Spread The Joy</string>
+			<key>Image</key>
+			<string>SpreadTheJoy</string>
+			<key>BorderColor</key>
+			<string>#ff8000</string>
+		</dict>
+	</array>
+</dict>
+</plist>
