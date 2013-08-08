@@ -1,9 +1,9 @@
 AnotherPhotoApp
 ===============
 
-![ScreenShot](https://www.dropbox.com/s/hgi5rnwcsegd0ev/apa_screen1.png)
-
 A photo app playground of sorts
+
+![ScreenShot](https://dl.dropboxusercontent.com/u/18815848/AnotherPhotoApp/apa_screen1.png)
 
 ## License
 
